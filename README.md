@@ -1,5 +1,5 @@
 # 💫 About Me:
-Future game dev here, armed with a keyboard and a dream. The plan is to create games that bring a smile to people's faces. The reality is... I'm still figuring out how to get a triangle to move :D
+Artist and a future game developer, still trying to figure things out :v
 
 
 # 💻 Tech Stack:
